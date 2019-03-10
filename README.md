@@ -1,38 +1,38 @@
-# ks_algorithms
+#&nbspks_algorithms
 
-__                                _.--'"7<br/>
-`. `--._                        ,-'_,-  ,'<br/>
-,'  `-.`-.                   /' .'    ,|<br/>
-`.     `. `-     __...___   /  /     - j<br/>
-  `.     `  `.-""        " .  /       /<br/>
-    \     /                ` /       /<br/>
-     \   /                         ,'<br/>
-     '._'_               ,-'       |<br/>
-        | \            ,|  |   ...-'<br/>
-        || `         ,|_|  |   | `             _..__<br/>
-       /|| |          | |  |   |  \  _,_    .-"     `-.<br/>
-      | '.-'          |_|_,' __!  | /|  |  /           \<br/>
-,-...___ .=                  ._..'  /`.| ,`,.      _,.._ |<br/>
-|   |,.. \     '  `'        ____,  ,' `--','  |    /      |<br/>
-,`-..'  _)  .`-..___,---'_...._/  .'      '-...'   |      /<br/>
-'.__' ""'      `.,------'"'      ,/            ,     `.._.' `.<br/>
-`.             | `--........,-'.            .         \     \<br/>
-`-.          .   '.,--""     |           ,'\        |      .<br/>
-  `.       /     |          L          ,\  .       |  .,---.<br/>
-    `._   '      |           \        /  .  L      | /   __ `.<br/>
-       `-.       |            `._   ,    l   .    j |   '  `. .<br/>
-         |       |               `"' |  .    |   /  '      .' |<br/>
-         |       |                   j  |    |  /  , `.__,'   |<br/>
-         `.      L                 _.   `    j ,'-'           |<br/>
-          |`"---..\._______,...,--' |   |   /|'      /        j<br/>
-          '       |                 |   .  / |      '        /<br/>
-           .      .              ____L   \'  j    -',       /<br/>
-          / `.     .          _,"     \   | /  ,-','      ,'<br/>
-         /    `.  ,'`-._     /         \  i'.,'_,'      .'<br/>
-        .       `.      `-..'             |_,-'      _.'<br/>
-        |         `._      |            ''/      _,-'<br/>
-        |            '-..._\             `__,.--'<br/>
-       ,'           ,' `-.._`.            .<br/>
-      `.    __      |       "'`.          |<br/>
-        `-"'  `""""'            7         `.<br/>
-                               `---'--.,'"`' mh<br/>
+__&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp_.--'"7<br/>
+`.&nbsp`--._&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp,-'_,-&nbsp&nbsp,'<br/>
+,'&nbsp&nbsp`-.`-.&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp/'&nbsp.'&nbsp&nbsp&nbsp&nbsp,|<br/>
+`.&nbsp&nbsp&nbsp&nbsp&nbsp`.&nbsp`-&nbsp&nbsp&nbsp&nbsp&nbsp__...___&nbsp&nbsp&nbsp/&nbsp&nbsp/&nbsp&nbsp&nbsp&nbsp&nbsp-&nbspj<br/>
+&nbsp&nbsp`.&nbsp&nbsp&nbsp&nbsp&nbsp`&nbsp&nbsp`.-""&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp"&nbsp.&nbsp&nbsp/&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp/<br/>
+&nbsp&nbsp&nbsp&nbsp\&nbsp&nbsp&nbsp&nbsp&nbsp/&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp`&nbsp/&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp/<br/>
+&nbsp&nbsp&nbsp&nbsp&nbsp\&nbsp&nbsp&nbsp/&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp,'<br/>
+&nbsp&nbsp&nbsp&nbsp&nbsp'._'_&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp,-'&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|<br/>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|&nbsp\&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp,|&nbsp&nbsp|&nbsp&nbsp&nbsp...-'<br/>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp||&nbsp`&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp,|_|&nbsp&nbsp|&nbsp&nbsp&nbsp|&nbsp`&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp_..__<br/>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp/||&nbsp|&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|&nbsp|&nbsp&nbsp|&nbsp&nbsp&nbsp|&nbsp&nbsp\&nbsp&nbsp_,_&nbsp&nbsp&nbsp&nbsp.-"&nbsp&nbsp&nbsp&nbsp&nbsp`-.<br/>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|&nbsp'.-'&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|_|_,'&nbsp__!&nbsp&nbsp|&nbsp/|&nbsp&nbsp|&nbsp&nbsp/&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp\<br/>
+,-...___&nbsp.=&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp._..'&nbsp&nbsp/`.|&nbsp,`,.&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp_,.._&nbsp|<br/>
+|&nbsp&nbsp&nbsp|,..&nbsp\&nbsp&nbsp&nbsp&nbsp&nbsp'&nbsp&nbsp`'&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp____,&nbsp&nbsp,'&nbsp`--','&nbsp&nbsp|&nbsp&nbsp&nbsp&nbsp/&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|<br/>
+,`-..'&nbsp&nbsp_)&nbsp&nbsp.`-..___,---'_...._/&nbsp&nbsp.'&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp'-...'&nbsp&nbsp&nbsp|&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp/<br/>
+'.__'&nbsp""'&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp`.,------'"'&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp,/&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp,&nbsp&nbsp&nbsp&nbsp&nbsp`.._.'&nbsp`.<br/>
+`.&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|&nbsp`--........,-'.&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp.&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp\&nbsp&nbsp&nbsp&nbsp&nbsp\<br/>
+`-.&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp.&nbsp&nbsp&nbsp'.,--""&nbsp&nbsp&nbsp&nbsp&nbsp|&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp,'\&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp.<br/>
+&nbsp&nbsp`.&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp/&nbsp&nbsp&nbsp&nbsp&nbsp|&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspL&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp,\&nbsp&nbsp.&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|&nbsp&nbsp.,---.<br/>
+&nbsp&nbsp&nbsp&nbsp`._&nbsp&nbsp&nbsp'&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp\&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp/&nbsp&nbsp.&nbsp&nbspL&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|&nbsp/&nbsp&nbsp&nbsp__&nbsp`.<br/>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp`-.&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp`._&nbsp&nbsp&nbsp,&nbsp&nbsp&nbsp&nbspl&nbsp&nbsp&nbsp.&nbsp&nbsp&nbsp&nbspj&nbsp|&nbsp&nbsp&nbsp'&nbsp&nbsp`.&nbsp.<br/>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp`"'&nbsp|&nbsp&nbsp.&nbsp&nbsp&nbsp&nbsp|&nbsp&nbsp&nbsp/&nbsp&nbsp'&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp.'&nbsp|<br/>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspj&nbsp&nbsp|&nbsp&nbsp&nbsp&nbsp|&nbsp&nbsp/&nbsp&nbsp,&nbsp`.__,'&nbsp&nbsp&nbsp|<br/>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp`.&nbsp&nbsp&nbsp&nbsp&nbsp&nbspL&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp_.&nbsp&nbsp&nbsp`&nbsp&nbsp&nbsp&nbspj&nbsp,'-'&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|<br/>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|`"---..\._______,...,--'&nbsp|&nbsp&nbsp&nbsp|&nbsp&nbsp&nbsp/|'&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp/&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspj<br/>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp'&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|&nbsp&nbsp&nbsp.&nbsp&nbsp/&nbsp|&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp'&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp/<br/>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp.&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp.&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp____L&nbsp&nbsp&nbsp\'&nbsp&nbspj&nbsp&nbsp&nbsp&nbsp-',&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp/<br/>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp/&nbsp`.&nbsp&nbsp&nbsp&nbsp&nbsp.&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp_,"&nbsp&nbsp&nbsp&nbsp&nbsp\&nbsp&nbsp&nbsp|&nbsp/&nbsp&nbsp,-','&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp,'<br/>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp/&nbsp&nbsp&nbsp&nbsp`.&nbsp&nbsp,'`-._&nbsp&nbsp&nbsp&nbsp&nbsp/&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp\&nbsp&nbspi'.,'_,'&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp.'<br/>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp.&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp`.&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp`-..'&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|_,-'&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp_.'<br/>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp`._&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp''/&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp_,-'<br/>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp'-..._\&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp`__,.--'<br/>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp,'&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp,'&nbsp`-.._`.&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp.<br/>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp`.&nbsp&nbsp&nbsp&nbsp__&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp"'`.&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|<br/>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp`-"'&nbsp&nbsp`""""'&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp7&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp`.<br/>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp`---'--.,'"`'&nbspmh<br/>
