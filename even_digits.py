@@ -48,10 +48,16 @@ if __name__ == "__main__":
     # Search and update odd digit
     press = 0
     while not dig_eva['state']:
-        input = input + (1 * math.pow(10, dig_eva['min_odd']))
-        press = press + math.pow(10, dig_eva['min_odd'])
-        dig_list = get_digits(input)
-        dig_eva = evaluate_even(dig_list)
+        if dig_eva['min_odd'] == 0:
+            input = input + (1 * math.pow(10, dig_eva['min_odd']))
+            press = press + math.pow(10, dig_eva['min_odd'])
+            dig_list = get_digits(input)
+            dig_eva = evaluate_even(dig_list)
+        else:
+            input = input + (1 * math.pow(10, dig_eva['min_odd'] - 1))
+            press = press + math.pow(10, dig_eva['min_odd'] - 1)
+            dig_list = get_digits(input)
+            dig_eva = evaluate_even(dig_list)
 
     print('Digit all even: %s' %(int(input)))
     print('Press the button %s times.' %(int(press)))
